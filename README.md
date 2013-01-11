@@ -1,3 +1,3 @@
 ## Welcome EngSoc Webmaster ##
-First thing is first: KEEP THIS REPO PRIVATE!!
+First thing is first: KEEP THIS REPO **PRIVATE**!!
 
