@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"PR",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"N",
+				"NumWorkers	int ν"
+			],
+			[
+				"Print",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Scan",
+				"Scanln	n int, err error ƒ"
+			],
+			[
+				"p",
+				"Printf"
+			],
+			[
+				"server",
+				"serverInfo"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"sp",
+				"speed"
+			],
+			[
+				"to",
+				"total_fired"
+			],
+			[
+				"co",
+				"cos"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"bu",
+				"bullet_default"
+			],
+			[
+				"e",
+				"end"
+			],
+			[
+				"dt",
+				"dt"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"pi",
+				"pic"
+			],
+			[
+				"rot",
+				"rotate_up"
+			],
+			[
+				"ro",
+				"rotate_down"
+			],
+			[
+				"rotate",
+				"rotate_down"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"a",
+				"animation"
+			],
+			[
+				"an",
+				"ani"
+			],
+			[
+				"get",
+				"getWidth"
+			],
+			[
+				"h",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "quick-scripts/director-html/director_generate.php",
+			"settings":
+			{
+				"buffer_size": 1993,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "quick-scripts/director-html/generate_html.php",
+			"settings":
+			{
+				"buffer_size": 5045,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 525.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Pongs/AppData/Roaming/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/C/Users/Pongs/AppData/Roaming/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/C/Jon/my documents/Go/GOGameServer/client.go",
+		"/C/Jon/my documents/Go/GOGameServer/src/gameserver_example/server_example.go",
+		"/C/Jon/my documents/Go/GOGameServer/server_example.go",
+		"/C/Jon/my documents/Go/GOGameServer/LICENSE",
+		"/C/Jon/my documents/Go/GOGameServer/server/worker.go",
+		"/C/Jon/my documents/Go/GOGameServer/server/listener.go",
+		"/C/Jon/my documents/Go/GOGameServer/server/facilitator.go",
+		"/C/Jon/my documents/Go/GOGameServer/server/gameserver.go",
+		"/C/Jon/my documents/Go/socketgo/Makefile",
+		"/C/Jon/my documents/Go/socketgo/socketgo.go",
+		"/C/Jon/my documents/Go/socketgo/serversocket.go",
+		"/C/Work/EngSoc/Webmaster/EngSocWebmaster/quick-scripts/director-html/BSoc Directors - 2013%2F01 - Copy of Director Contact Info.csv",
+		"/C/Work/EngSoc/Webmaster/generate_html.php",
+		"/C/Work/EngSoc/Webmaster/test.csv",
+		"/C/Work/EngSoc/Webmaster/csv to html table.py",
+		"/C/Work/EngSoc/Webmaster/director_generate.php",
+		"/C/Work/EngSoc/Webmaster/.htaccess",
+		"/C/Users/Pongs/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Pongs/Desktop/Book1.csv",
+		"/C/Jon/my documents/Lua/Love/Simple Game/main.lua",
+		"/C/Jon/my documents/Lua/Love/love-demos-0.8.0/lovealanche/main.lua",
+		"/C/Jon/my documents/Lua/Love/Kill em All/main.lua",
+		"/C/Work/EngSoc/Scripts/csv to html table.py",
+		"/C/Work/EngSoc/Scripts/director_generate.php",
+		"/C/Jonathan/homework/2012 (3A)/WTR-2012-09-Demonware/.git/config",
+		"/C/Jon/my documents/Lua/Love/love-demos-0.8.0/lovealanche/conf.lua",
+		"/C/Jon/my documents/Lua/Love/Kill em All/conf.lua",
+		"/C/Work/EngSoc/Wiki/LocalSettings.php",
+		"/C/Jon/my documents/Challenges/Unknown Binary File/load_binary_file/load_binary_file/load_binary_file.cpp",
+		"/C/Jon/my documents/Lua/Love/love-demos-0.8.0/metaballs/main.lua",
+		"/C/Jon/my documents/Lua/Love/love-demos-0.8.0/metaballs/conf.lua",
+		"/C/Users/Pongs/AppData/Local/Temp/$$_BE18/main.lua",
+		"/C/Users/Pongs/Downloads/love-demos-0.8.0/particles.love",
+		"/C/Users/Pongs/Downloads/love-demos-0.8.0/metaballs.love",
+		"/C/Jonathan/homework/2012 (3A)/ECE 327 - Digital Hardware/lecture/corrections.php",
+		"/F/Movies/The.Losers/alli-losers-xvid.nfo",
+		"/F/noname2.php",
+		"/F/Gravatar",
+		"/C/Users/Pongs/Documents/Torrents/Lois Lowry/The Giver/9583_split_000.xhtml",
+		"/R/passowrds.html",
+		"/C/Work/EngSoc/Wiki/extensions/ApprovedRevs/ApprovedRevs.sql"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"USers",
+			"gameserver",
+			",3",
+			",2",
+			",1",
+			",9",
+			",8",
+			",7",
+			",6",
+			",5",
+			",4",
+			"+",
+			"\"",
+			"$str +=",
+			"len(",
+			"pre ",
+			"name ",
+			"row[",
+			"str",
+			"] = ",
+			"total",
+			"sign",
+			"hspeed",
+			"vspeed",
+			"sign",
+			"()\n",
+			"imgy",
+			"imgx",
+			"<?php",
+			"mental",
+			"world",
+			"hello",
+			"hat u",
+			" ",
+			"<",
+			"EngPlay",
+			"</span><br />",
+			"<span style=\"font-size: 17px; vertical-align: baseline; white-space: pre-wrap; \"> </span>",
+			"MAX"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Users",
+			",9",
+			",8",
+			",7",
+			",8",
+			",7",
+			",6",
+			",5",
+			",4",
+			",3",
+			".",
+			"'",
+			"$str .=",
+			"strlen(",
+			"$pre ",
+			"$name ",
+			"$row[",
+			"$str",
+			" => ",
+			"ship.speed.h",
+			"ship.speed.v",
+			"ship.pos.y",
+			"ship.pos.x",
+			"_",
+			"</span>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "quick-scripts/director-html/director_generate.php",
+					"settings":
+					{
+						"buffer_size": 1993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "quick-scripts/director-html/generate_html.php",
+					"settings":
+					{
+						"buffer_size": 5045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								740,
+								740
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true
+}
